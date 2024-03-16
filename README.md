@@ -2,7 +2,7 @@
 
 Created an HR analytics dashboard using Power BI Desktop, Power Query, and publishing it to Power BI Service involves several steps. 
 Here's a general outline of the process:
-![] https://github.com/Ankita-Belkhede/HR-ANALYTICS-DASHBOARD/blob/main/HR%20ANALYTICS%20DASHBOARD.pbi
+![] (https://github.com/Ankita-Belkhede/HR-ANALYTICS-DASHBOARD/blob/main/HR%20ANALYTICS%20DASHBOARD.pbi raw=true)
 ## Data Collection and Preparation:
 
 Imported CSV file into Power BI Desktop.
